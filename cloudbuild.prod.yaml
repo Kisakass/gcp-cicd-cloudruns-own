@@ -32,6 +32,6 @@ substitutions:
     _SERVICE_REGION   : us-central1
     _SERVICE_PROJECT  : stag-378015
     _SERVICE_NAME     : my-dockerapp-stag
-    _DOCKER_REGISTRY  : kisakas-docker-repo
+    _DOCKER_REGISTRY  : docker-repo
     _DOCKER_IMAGENAME : myapp-staging
 
